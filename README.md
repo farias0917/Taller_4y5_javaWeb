@@ -14,4 +14,4 @@
 ####4.ConnectionPool:
 [![imagen-2023-05-05-232131547.png](https://i.postimg.cc/pLBn3JRW/imagen-2023-05-05-232131547.png)](https://postimg.cc/RWNFHfWy)
 ##Contraseña encriptada y desencriptada en una tabla de bases de datos MySQL
-[![imagen-2023-05-05-233743543.png](https://i.postimg.cc/Qxv3s2NS/imagen-2023-05-05-233743543.png)](https://postimg.cc/fJ7Ffg90)
+[![imagen-2023-05-05-235110746.png](https://i.postimg.cc/25yhv9Bq/imagen-2023-05-05-235110746.png)](https://postimg.cc/DWVS3g6F)
