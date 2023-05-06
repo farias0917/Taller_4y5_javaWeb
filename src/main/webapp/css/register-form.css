@@ -1,0 +1,49 @@
+html,
+body{
+    height: 100%;
+}
+
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-top: 40px;
+}
+.form-container{
+    padding: 20px;
+}
+
+.form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    border: 1px solid;
+    padding: 25px;
+    background-color: white;
+}
+
+.form-input{
+    padding-bottom: 20px;
+}
+
+.form input{
+    padding: 7px;
+    width: 100%;
+}
+.form button{
+    padding: 8px;
+    background-color: cornflowerblue;
+    font-size: 15px;
+    border: 1px solid;
+    margin-bottom: 2px;
+    cursor: pointer;
+}
+
+p{
+    font-family: Calibri;
+}
+
+.form button:hover{
+    background-color: #7499e1;
+}
